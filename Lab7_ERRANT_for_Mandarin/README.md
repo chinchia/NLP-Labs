@@ -1,2 +1,2 @@
 ### The models used were from CkipTagger.
-#### see CkipTagger in https://github.com/ckiplab/ckiptagger
+#### See CkipTagger in https://github.com/ckiplab/ckiptagger for more details.
